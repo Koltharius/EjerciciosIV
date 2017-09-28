@@ -86,6 +86,8 @@ He instalado virtualbox
 
 ### Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.
 
+Me he dado de alta en [Google Cloud Platform](https://cloud.google.com/?hl=es) y he obtenido un bono de 300$.
+
 ---
 ## Ejercicio 6:
 
