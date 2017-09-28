@@ -53,7 +53,21 @@ Las características de ambos son:
 ---
 ## Ejercicio 3:
 
-### En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? Si usas una máquina virtual, ¿qué resultado da? ¿Y en una Raspberry Pi o, si tienes acceso, [el procesador del móvil](https://stackoverflow.com/questions/26239956/how-to-get-specific-information-of-an-android-device-from-proc-cpuinfo-file)?
+### En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es?
+
+Mi procesador es Intel® Core™ i7-2670QM CPU @ 2.20GHz × 8
+
+
+### ¿Qué aparece como salida de esa orden?
+
+![1](Imagenes/Tema_1/1.png)
+
+### Si usas una máquina virtual, ¿qué resultado da?
+Dice que no está activa la virtualizacion.
+
+### ¿Y en una Raspberry Pi o, si tienes acceso, [el procesador del móvil](https://stackoverflow.com/questions/26239956/how-to-get-specific-information-of-an-android-device-from-proc-cpuinfo-file)?
+Dice que no está activa la virtualizacion.
+
 ---
 ## Ejercicio 4:
 
