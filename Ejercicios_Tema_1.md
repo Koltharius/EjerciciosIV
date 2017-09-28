@@ -92,3 +92,5 @@ Me he dado de alta en [Google Cloud Platform](https://cloud.google.com/?hl=es) y
 ## Ejercicio 6:
 
 ### Darse de alta en una web que permita hacer pruebas con alguno de los sistemas de gestión de nube anteriores.
+
+Desde Google Cloud Platform se pueden probar directamente sus sistemas.
