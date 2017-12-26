@@ -75,6 +75,9 @@ El resultado tras ejecutarlos es el siguiente:
 
 ### Instalar alguno de los entornos virtuales de `node.js` (o de cualquier otro lenguaje con el que se esté familiarizado) y, con ellos, instalar la última versión existente, la versión `minor` más actual de la 4.x y lo mismo para la 0.11 o alguna impar (de desarrollo).
 
+He instalado virtualenv con ``pip3 install virtualenv``.
+Para crear un entorno virtual basta con escribir en la terminal ``virtualenv nombre_del_entorno``. Realizado esto se creará una carpeta con el nombre que le hayamos dado a nuestro entorno, nos movemos a esta. Para entrar dentro de nuestro entorno virtual debemos teclear en la consola ``source /bin/activate`` y para salir basta con escribir ``deactivate``.
+
 --------------------------------------------------------------------------------
 
 ## Ejercicio 5:
