@@ -41,6 +41,8 @@ def test_even(self):
 
 ### Para la aplicación que se está haciendo, escribir una serie de aserciones y probar que efectivamente no fallan. Añadir tests para una nueva funcionalidad, probar que falla y escribir el código para que no lo haga (vamos, lo que viene siendo TDD).
 
+Realizado en el Ejercicio 1.
+
 --------------------------------------------------------------------------------
 
 ## Ejercicio 3:
